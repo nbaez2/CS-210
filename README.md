@@ -1,1 +1,1 @@
-# CS-210
+# CS-210 Introduction to Programming
